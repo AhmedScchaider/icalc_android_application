@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ISIMS</string>
+    <string name="welcome_to_splashscreen_activity">Welcome to SplashScreen Activity</string>
+</resources>
